@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "account_group": {
+      "type": "string"
+    },
+    "content_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "schedule": {
+      "type": "object"
+    },
+    "status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "account_group",
+    "content_ids"
+  ]
+}
