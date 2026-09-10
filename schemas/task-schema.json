@@ -1,0 +1,30 @@
+{
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "platform": {
+      "type": "string"
+    },
+    "account_id": {
+      "type": "string"
+    },
+    "content_id": {
+      "type": "string"
+    },
+    "scheduled_at": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "platform",
+    "account_id",
+    "content_id",
+    "status"
+  ]
+}
