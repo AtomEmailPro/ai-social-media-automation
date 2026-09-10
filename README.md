@@ -376,6 +376,30 @@ See the `docs/` directory for deeper technical discussions covering:
 * Platform automation
 * AI content workflows
 
+* ## Documentation
+
+### Core Concepts
+
+- [AI Social Media Automation](docs/ai-social-media-automation.md)
+- [Social Media Automation](docs/social-media-automation.md)
+- [Social Media Workflow Automation](docs/social-media-workflow-automation.md)
+
+### Multi-Account Management
+
+- [Manage Multiple Social Media Accounts](docs/manage-multiple-social-media-accounts.md)
+- [Multi-Account Social Media Management](docs/multi-account-social-media-management.md)
+
+### Publishing and Scheduling
+
+- [Automated Social Media Publishing](docs/automated-social-media-publishing.md)
+- [Social Media Content Scheduling](docs/social-media-content-scheduling.md)
+
+### Automation Use Cases
+
+- [Automate Repetitive Social Media Tasks](docs/automate-repetitive-social-media-tasks.md)
+- [LinkedIn Automation Tool](docs/linkedin-automation-tool.md)
+- [Best Social Media Automation Tool](docs/best-social-media-automation-tool.md)
+
 ## About This Repository
 
 This is an independent technical reference project maintained by AtomEmailPro.
