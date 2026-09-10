@@ -1,0 +1,25 @@
+{
+  "name": "Brand A",
+  "accounts": [
+    {
+      "id": "account-001",
+      "platform": "facebook",
+      "status": "active"
+    },
+    {
+      "id": "account-002",
+      "platform": "instagram",
+      "status": "active"
+    },
+    {
+      "id": "account-003",
+      "platform": "x",
+      "status": "active"
+    },
+    {
+      "id": "account-004",
+      "platform": "tiktok",
+      "status": "active"
+    }
+  ]
+}
