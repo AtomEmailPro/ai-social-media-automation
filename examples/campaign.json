@@ -1,0 +1,14 @@
+{
+  "name": "Product Launch",
+  "account_group": "brand-a",
+  "content_ids": [
+    "content-001",
+    "content-002",
+    "content-003"
+  ],
+  "schedule": {
+    "type": "interval",
+    "interval_minutes": 120
+  },
+  "status": "active"
+}
